@@ -6494,7 +6494,7 @@
   (symbol (lib_id "HPS:TestPoint") (at 113.03 143.51 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 18284de9-0621-4232-a79b-da0a3c7eb084)
-    (property "Reference" "TP13" (id 0) (at 115.57 137.16 0)
+    (property "Reference" "TP14" (id 0) (at 115.57 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 115.57 139.7 0)
@@ -9029,11 +9029,11 @@
     (path "/cbd6540f-526e-42b6-aee3-749904f90281"
       (reference "TP12") (unit 1) (value "TestPoint") (footprint "footprints:TestPoint_THTPad_D2.0mm_Drill1.0mm")
     )
-    (path "/18284de9-0621-4232-a79b-da0a3c7eb084"
-      (reference "TP13") (unit 1) (value "TestPoint") (footprint "footprints:TestPoint_THTPad_D2.0mm_Drill1.0mm")
-    )
     (path "/71840b63-43c6-4d29-b74e-3f6956efaa5c"
       (reference "TP13") (unit 1) (value "TestPoint") (footprint "footprints:TestPoint_THTPad_D2.0mm_Drill1.0mm")
+    )
+    (path "/18284de9-0621-4232-a79b-da0a3c7eb084"
+      (reference "TP14") (unit 1) (value "TestPoint") (footprint "footprints:TestPoint_THTPad_D2.0mm_Drill1.0mm")
     )
     (path "/a485a5d8-9902-4d0a-a13d-8b00d3d228d1"
       (reference "U1") (unit 1) (value "ATmega328-PU") (footprint "footprints:DIP-28_W7.62mm")
