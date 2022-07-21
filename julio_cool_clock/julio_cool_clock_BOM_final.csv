@@ -1,7 +1,7 @@
 "Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"TP20,TP19,TP18,TP17,TP16,TP15,TP11,TP12,TP1,TP3,TP13,TP4,TP5,TP9,TP10,TP6,TP2,TP8,TP14,TP7";"TestPoint_THTPad_D2.0mm_Drill1.0mm";20;"TestPoint";;;
-2;"R12,R11,R4,R3";"R_0805_2012Metric";4;"R_0805_4.7K";;;
-3;"H4,H2,H3,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+1;"R12,R11,R4,R3";"R_0805_2012Metric";4;"R_0805_4.7K";;;
+2;"H4,H2,H3,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+3;"TP11,TP15,TP12,TP1,TP17,TP19,TP16,TP13,TP5,TP10,TP18,TP8,TP14,TP20";"TestPoint_THTPad_D2.0mm_Drill1.0mm";14;"TestPoint";;;
 4;"C5";"C_0805_2012Metric";1;"C_0805_10uf";;;
 5;"C8,C4,C9";"C_0805_2012Metric";3;"C_0805_0.1uf";;;
 6;"DS1";"TC1602A-01T";1;"TC1602A-01T";;;
@@ -31,4 +31,4 @@
 30;"BT1";"BatteryHolder_Keystone_106_1x20mm";1;"Battery_Cell";;;
 31;"C7";"C_0805_2012Metric";1;"C_0805_1uf";;;
 32;"R5";"R_0805_2012Metric";1;"R_10K";;;
-33;"J1";"PJ-102AH";1;"PJ-102AH";;;
+33;"J1";"PJ-102AH";1;"VAL**";;;
