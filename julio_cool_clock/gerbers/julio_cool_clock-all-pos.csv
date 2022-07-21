@@ -1,5 +1,5 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"J1","VAL**","PJ-102AH",-4.835433,0.608661,0.000000,bottom
+"J1","PJ-102AH","PJ-102AH",-4.824835,0.407480,180.000000,bottom
 "BT1","Battery_Cell","BatteryHolder_Keystone_106_1x20mm",0.650393,2.765893,-90.000000,top
 "BZ1","Buzzer","Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm",0.350394,1.661999,-90.000000,top
 "C1","C_10uf","C_0805_2012Metric",1.150394,0.958661,0.000000,top
