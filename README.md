@@ -1,4 +1,3 @@
 # jramirez-clock
- All files pertaining to my design of a working clock as part of Google's Hardware Product Sprint Program.
+ This repository contains all files pertaining to my design of a PCB clock as part of Google's Hardware Product Sprint program.
  
- Documentation is forthcoming!
